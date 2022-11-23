@@ -1,0 +1,15 @@
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\bin\Debug\net6.0\ObserverAndMediator.exe
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\bin\Debug\net6.0\ObserverAndMediator.deps.json
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\bin\Debug\net6.0\ObserverAndMediator.runtimeconfig.json
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\bin\Debug\net6.0\ObserverAndMediator.dll
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\bin\Debug\net6.0\ObserverAndMediator.pdb
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.AssemblyInfoInputs.cache
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.AssemblyInfo.cs
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.dll
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\refint\ObserverAndMediator.dll
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.pdb
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ObserverAndMediator.genruntimeconfig.cache
+C:\Users\Students\Desktop\demo\ObserverAndMediator\ObserverAndMediator\obj\Debug\net6.0\ref\ObserverAndMediator.dll
